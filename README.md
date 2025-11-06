@@ -43,7 +43,6 @@ O site foi publicado na plataforma **Netlify**, simulando práticas de entrega e
 ## 🔗 Link do Projeto Publicado
 
 [👉 Acesse a landing page aqui](https://consultor-cloud-george.netlify.app/)  
-*(Substitua pelo link real após o deploy)*
 
 ---
 
